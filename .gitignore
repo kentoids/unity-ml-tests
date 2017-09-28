@@ -32,3 +32,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# for unity-ml specific
+/Assets/ML-Agents/
